@@ -1,0 +1,8 @@
+nlu:
+- lookup: country
+  examples: |
+    - Afghanistan
+    - Albania
+    - ...
+    - Zambia
+    - Zimbabwe
